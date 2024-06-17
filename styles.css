@@ -1,0 +1,72 @@
+/* Name: Sukhmanpreet kaur, Student Number: 8970731 */
+body {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font: 1em/1.6 Arial, sans-serif;
+    padding: 20px;
+  }
+  
+header,footer {
+    border: 4px solid #460000;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;}
+  
+h1,h2 {
+    color: #8b2e2e;
+    font-variant: small-caps;}
+  
+aside > p {
+    font-size: 0.8em;
+    color: #555;}
+  
+main {
+    float: left;
+    padding: 20px;
+    width: 66%;
+    margin-right: 4%}
+  
+.mainimg {
+    border: 2px solid #000;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;}
+  
+figcaption {
+    font-weight: bold;
+    font-variant: small-caps;
+    text-align: center;
+    margin-top: 5px;}
+  
+blockquote {
+    margin: 0;
+    padding: 0;}
+  
+q {
+    font-family: "Cursive", cursive;
+    font-style: italic;
+    font-size: 1.2em;
+    display: block;
+    text-align: center;}
+  
+ul {
+    list-style: none;
+    padding: 0;}
+  
+ul li {
+    line-height: 1.5;}
+  
+ul > li > a {
+    text-decoration: none;
+    color: #000;}
+  
+ul > li > a:hover {
+    color: #8b2e2e;}
+
+
+footer p {
+    font-size: 0.8em;
+    color: #555;
+  }
